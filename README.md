@@ -110,7 +110,6 @@ curl http://localhost:8080/api/students
 - If using IDEs like IntelliJ, ensure you set up:
   - JavaFX VM options in Run Configuration
   - Correct project SDK and language level
-- Consider using a shared DTO structure or Swagger API documentation for consistency.
 
 ---
 
