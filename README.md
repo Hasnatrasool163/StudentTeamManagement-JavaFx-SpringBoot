@@ -13,8 +13,8 @@ This project demonstrates how a JavaFX client application communicates with a Sp
 
 ```
 StudentTeamManagement-JavaFx-SpringBoot/
-├── backend-springboot/         # Spring Boot REST API (Maven project)
-└── frontend-javafx/            # JavaFX GUI Application (Maven project)
+├── SpringServerBackend/         # Spring Boot REST API (Maven project)
+└── teamapp/            # JavaFX GUI Application (Maven project)
 ```
 
 ---
@@ -34,7 +34,7 @@ StudentTeamManagement-JavaFx-SpringBoot/
 1. Open a terminal and navigate to the backend project directory:
 
    ```bash
-   cd backend-springboot
+   cd SpringServerBackend
    ```
 
 2. Build and run the Spring Boot server:
@@ -51,7 +51,7 @@ StudentTeamManagement-JavaFx-SpringBoot/
 1. Open a new terminal and navigate to the frontend directory:
 
    ```bash
-   cd frontend-javafx
+   cd teamapp
    ```
 
 2. Build and run the JavaFX app:
