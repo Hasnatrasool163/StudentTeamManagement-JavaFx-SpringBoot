@@ -1,0 +1,26 @@
+May 02, 2025 11:50:56 PM com.teamapp.MainApp start
+INFO: Application started
+May 02, 2025 11:50:58 PM com.teamapp.api.ApiClient getAllMembers
+INFO: Get Members response code: 200
+May 02, 2025 11:50:59 PM com.teamapp.controller.MainController loadMembers
+INFO: Loaded 0 members
+May 02, 2025 11:51:13 PM com.teamapp.controller.MainController addMember
+INFO: Added member: Nasser Al Rashaid
+May 02, 2025 11:51:24 PM com.teamapp.controller.MainController addMember
+INFO: Added member: Muhammed Alhowaish
+May 02, 2025 11:51:35 PM com.teamapp.controller.MainController addMember
+INFO: Added member: Mohammed Bejad Alharbi
+May 02, 2025 11:51:44 PM com.teamapp.controller.MainController addMember
+INFO: Added member: Abdulrahman Bin Mushayt
+May 02, 2025 11:51:52 PM com.teamapp.controller.MainController updateMember
+INFO: Updated member: Nasser Al Rashaid
+May 02, 2025 11:51:56 PM com.teamapp.controller.MainController updateMember
+INFO: Updated member: Nasser Al Rashaid
+May 02, 2025 11:52:00 PM com.teamapp.controller.MainController removeMember
+INFO: Removed member: Abdulrahman Bin Mushayt
+May 02, 2025 11:52:00 PM com.teamapp.api.ApiClient deleteMember
+INFO: Delete response code: 200
+May 02, 2025 11:52:07 PM com.teamapp.api.ApiClient getStudentById
+INFO: Get Student By Id response code: 200
+May 02, 2025 11:52:07 PM com.teamapp.controller.MainController searchMemberById
+INFO: Found member: Nasser Al Rashaid
